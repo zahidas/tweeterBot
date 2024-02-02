@@ -1,0 +1,6 @@
+APScheduler
+bottle
+pycryptodome
+python-twitter
+numpy
+datetime

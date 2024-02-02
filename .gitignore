@@ -1,0 +1,7 @@
+# Ignore the update files
+./update.*
+
+# Ignore the unrelated files
+./introduction/
+./LICENSE
+./*.md
